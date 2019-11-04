@@ -2,7 +2,7 @@
 
 ## Roadmap:
 
- - Make a client to get data from API using character id
+ - ~~Make a client to get data from API using character id~~
  - Implement logic to get data from pagination
  - Add operation to get data using character name
  - Configure a container with database to persist data
